@@ -21,4 +21,4 @@ class Post(db.Model):
 #     title VARCHAR,
 #     content TEXT,
 #     created_at DATETIME
-# )
+#
